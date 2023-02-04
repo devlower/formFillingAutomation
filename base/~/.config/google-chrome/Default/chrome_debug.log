@@ -1,0 +1,4 @@
+[565559:565559:0203/112524.239275:WARNING:chrome_main_delegate.cc(607)] This is Chrome version 109.0.5414.119 (not a warning)
+[565559:565559:0203/112525.203679:ERROR:process_singleton_posix.cc(335)] Failed to create /media/sf_d_desktop/git/formFillingAutomation/base/~/.config/google-chrome/Default/SingletonLock: Operation not permitted (1)
+[565559:565559:0203/112525.207655:ERROR:chrome_browser_main.cc(1400)] Failed to create a ProcessSingleton for your profile directory. This means that running multiple instances would start multiple browser processes rather than opening a new window in the existing process. Aborting now to avoid profile corruption.
+[565603:565603:0100/000000.428932:WARNING:sandbox_linux.cc(385)] InitializeSandbox() called with multiple threads in process gpu-process.
